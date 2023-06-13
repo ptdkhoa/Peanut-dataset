@@ -5,8 +5,9 @@ The Peanut dataset was collected from peanut fields near Danang in Vietnam. The 
 
 The color map: Green - Crop, Red - Weed, Black - Background.
 
-The dataset is published under the GNU General Public License.
+This datasets are released under the Creative Commons license CC BY-SA 4.0
 
-Copyright (c) 2023 Tran Dang Khoa Phan
+Copyright (c) 2023 Phan Tran Dang Khoa
+
 
 
