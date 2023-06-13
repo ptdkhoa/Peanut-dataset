@@ -7,7 +7,7 @@ The color map: Green - Crop, Red - Weed, Black - Background.
 
 This datasets are released under the Creative Commons license CC BY-SA 4.0
 
-Copyright (c) 2023 Phan Tran Dang Khoa
+Copyright (c) 2023 Thi Hoang Yen Tran, Tran Dang Khoa Phan
 
 
 
