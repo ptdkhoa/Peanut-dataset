@@ -10,6 +10,7 @@ This dataset is released under the Creative Commons license CC BY-SA 4.0
 If you use the datasets for your research, please cite the following paper:
 
 @article{tran2023dense,
+  
   title={Dense Multi-Scale Convolutional Network for Plant Segmentation},  
   author={Tran, Thi Hoang Yen and Phan, Tran Dang Khoa},  
   journal={IEEE Access},  
