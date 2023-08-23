@@ -7,7 +7,7 @@ The color map: Green - Crop, Red - Weed, Black - Background.
 
 This dataset is released under the Creative Commons license CC BY-SA 4.0
 
-If you use the datasets for your research, please cite the following paper: Tran, Thi Hoang Yen, and Phan, Tran Dang Khoa. "Dense Multi-Scale Convolutional Network for Plant Segmentation." IEEE Access, vol. 11, 2023, pp. 82640 - 82651.
+If you use the datasets for your research, please cite the following paper: Tran, Thi Hoang Yen, and Phan, Tran Dang Khoa. "Dense Multi-Scale Convolutional Network for Plant Segmentation." IEEE Access 11 (2023): 82640 - 82651.
 
 Copyright (c) 2023 Thi Hoang Yen Tran, Tran Dang Khoa Phan
 
